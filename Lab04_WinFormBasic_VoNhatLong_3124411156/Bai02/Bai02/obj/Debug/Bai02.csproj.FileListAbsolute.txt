@@ -1,0 +1,9 @@
+D:\Môn C#\Bai02\Bai02\bin\Debug\Bai02.exe.config
+D:\Môn C#\Bai02\Bai02\bin\Debug\Bai02.exe
+D:\Môn C#\Bai02\Bai02\bin\Debug\Bai02.pdb
+D:\Môn C#\Bai02\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\Môn C#\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\Môn C#\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\Môn C#\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Môn C#\Bai02\Bai02\obj\Debug\Bai02.exe
+D:\Môn C#\Bai02\Bai02\obj\Debug\Bai02.pdb
