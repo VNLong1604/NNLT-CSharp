@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+DlJMJ3kAU=",
+  "success": true,
+  "projectFilePath": "/Users/nguyenphat/Downloads/Lab05_WinFormAdv_HoTen_MaSV/Code/Lab05_WinFormAdv.csproj",
+  "expectedPackageFiles": [
+    "/Users/nguyenphat/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/nguyenphat/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

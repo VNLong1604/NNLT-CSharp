@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Dự án WinForms (.NET Framework 4.8). Mở trực tiếp bằng Visual Studio 2019/2022. -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Lab05</RootNamespace>
+    <AssemblyName>Lab05_WinFormAdv</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Data" />
+    <!-- Dùng cho Interaction.InputBox (bài Xử lý chuỗi) -->
+    <Reference Include="Microsoft.VisualBasic" />
+  </ItemGroup>
+
+</Project>
