@@ -1,0 +1,7 @@
+D:\Môn C#\TH1\TH1\bin\Debug\TH1.exe.config
+D:\Môn C#\TH1\TH1\bin\Debug\TH1.exe
+D:\Môn C#\TH1\TH1\bin\Debug\TH1.pdb
+D:\Môn C#\TH1\TH1\obj\Debug\TH1.csproj.AssemblyReference.cache
+D:\Môn C#\TH1\TH1\obj\Debug\TH1.csproj.CoreCompileInputs.cache
+D:\Môn C#\TH1\TH1\obj\Debug\TH1.exe
+D:\Môn C#\TH1\TH1\obj\Debug\TH1.pdb
