@@ -1,0 +1,14 @@
+D:\BTLinq\BaiThucHanhLINQ\bin\Debug\net8.0\BaiThucHanhLINQ.exe
+D:\BTLinq\BaiThucHanhLINQ\bin\Debug\net8.0\BaiThucHanhLINQ.deps.json
+D:\BTLinq\BaiThucHanhLINQ\bin\Debug\net8.0\BaiThucHanhLINQ.runtimeconfig.json
+D:\BTLinq\BaiThucHanhLINQ\bin\Debug\net8.0\BaiThucHanhLINQ.dll
+D:\BTLinq\BaiThucHanhLINQ\bin\Debug\net8.0\BaiThucHanhLINQ.pdb
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.AssemblyInfoInputs.cache
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.AssemblyInfo.cs
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.dll
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\refint\BaiThucHanhLINQ.dll
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.pdb
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\BaiThucHanhLINQ.genruntimeconfig.cache
+D:\BTLinq\BaiThucHanhLINQ\obj\Debug\net8.0\ref\BaiThucHanhLINQ.dll
